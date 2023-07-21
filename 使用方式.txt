@@ -1,0 +1,2 @@
+将以上文件夹拖动至 resourcepacks 文件夹
+Drag the above folder to "resourcepacks".
